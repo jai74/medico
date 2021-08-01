@@ -104,7 +104,7 @@
     </header>
     <div class="container" id="main" align=center>
         <h1 style="color: #000099; font-size: 50px;">Designed and developed by</h1><br>
-        <h2>JAI BHAARATH and EZHILARASAN</h2>
+        <h2>JAI BHAARATH</h2>
     </div>
     <footer style="background-color: white;">
         <p style="color: black; text-align: center; padding-top: 20px;">Copyright &copy; 2021, Medico. All rights reserved.</p>
